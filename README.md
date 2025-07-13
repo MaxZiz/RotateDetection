@@ -1,4 +1,5 @@
 # RotateDetection
+
 try
 {
     // Путь к папке tessdata
