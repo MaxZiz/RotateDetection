@@ -3,7 +3,7 @@
 try
 {
     // Путь к папке tessdata
-    string tessDataPath = @"D:\"; // Укажите путь к папке с rus.traineddata
+    string tessDataPath = @"D:\";
 
     // Загружаем изображение
     using (Bitmap image = new Bitmap("D:\\1.png"))
